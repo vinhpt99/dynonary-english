@@ -1,9 +1,8 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div>
+    <p class="font-bold">This text is bold.</p>
+  </div>
 </template>
+<script setup lang="ts">
+
+</script>
