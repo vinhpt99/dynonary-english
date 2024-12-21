@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto max-w-[75%]">
+  <div class="mx-auto">
     <v-row class="pt-[10vh]">
       <v-col v-for="item in FEATURE_LIST" cols="12" md="4">
         <v-card class="mx-auto flex p-2">

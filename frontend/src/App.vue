@@ -1,6 +1,6 @@
 <template>
   <v-app class="bg-white">
-    <v-container>
+    <v-container class="max-w-[75%]">
       <header-layout></header-layout>
       <RouterView />
     </v-container>
